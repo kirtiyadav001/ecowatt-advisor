@@ -24,7 +24,7 @@ EcoWatt Advisor combines two AI components:
 | `model.py` | Full pipeline: synthetic data generation, model training, evaluation, chart generation |
 | `household_energy_data.csv` | Simulated dataset: 300 households × 12 months of usage data |
 | `sample_forecasts.csv` | Example model outputs for 3 sample households |
-| `actual_vs_predicted.png` | Model performance: predicted vs. actual consumption |
+| `cactual_vs_predicted.png` | Model performance: predicted vs. actual consumption |
 | `feature_importance.png` | What drives predicted electricity consumption |
 | `EcoWatt_Advisor_1M1B_Project.pptx` | Full project presentation (problem, solution, prototype, responsible AI, impact) |
 
