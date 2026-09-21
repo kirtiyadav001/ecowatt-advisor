@@ -1,0 +1,4 @@
+household_id,household_size,ac_units,has_geyser,avg_temp_c,prev_month_kwh,predicted_next_month_kwh
+254,3,0,1,9.8,132.1,132.4
+57,5,2,0,13.1,296.7,289.8
+150,1,1,1,11.1,162.8,159.6
